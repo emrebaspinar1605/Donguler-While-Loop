@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\bin\Debug\net6.0\Donguler-While-Loop.exe
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\bin\Debug\net6.0\Donguler-While-Loop.deps.json
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\bin\Debug\net6.0\Donguler-While-Loop.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\bin\Debug\net6.0\Donguler-While-Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\bin\Debug\net6.0\Donguler-While-Loop.pdb
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\refint\Donguler-While-Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.pdb
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\Donguler-While-Loop.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-While-Loop\obj\Debug\net6.0\ref\Donguler-While-Loop.dll
